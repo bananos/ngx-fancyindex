@@ -1,6 +1,8 @@
 ========================
 Nginx Fancy Index module
 ========================
+*An exact clone of the original module, but with increased size of filenames in listings*
+
 
 .. contents::
 
